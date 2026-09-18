@@ -23,6 +23,10 @@ The dashboard provides an interactive view of key operational KPIs and helps ide
 
 ![Warehouse Performance Dashboard](overview-dashboard.png)
 
+### Manager Performance
+
+![Manager Performance Dashboard](Manager_Performance.png)
+
 ## Business Questions
 
 1. How many orders were processed and how efficiently were they completed?
