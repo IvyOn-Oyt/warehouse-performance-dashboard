@@ -103,3 +103,8 @@ This project demonstrates an end-to-end data analysis workflow, from data prepar
 The analysis shows how productivity and quality metrics can be used together to compare operational performance across employees, departments, shifts and manager teams.
 
 The project also strengthened my practical skills in SQL, Power Query, DAX, data modelling and communicating business insights through interactive dashboards.
+
+## Project Files
+
+- [Power BI Dashboard](Warehouse_Performance_Dashboard.pbix)
+- [SQL Analysis](warehouse_analysis.sql)
