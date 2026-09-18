@@ -87,3 +87,11 @@ DIVIDE([Total Orders] - [Total Errors], [Total Orders])
 - Orders per Hour
 - Error Rate
 - Accuracy Rate
+
+## Key Insights
+
+- James' team processed **915 orders**, compared with **785 orders** for Sarah's team, despite working a similar number of total hours (51 vs 47).
+- James' team achieved higher productivity at **17.94 orders per hour**, compared with **16.70** for Sarah's team.
+- Quality performance was similar between the two teams, with error rates of **1.75% for James** and **1.66% for Sarah**.
+- At employee level, **Jack recorded the highest order volume with 200 orders**.
+- **Frank and Charlie had the highest error rates**, at **5.71% and 5.56%**, highlighting potential areas for further investigation.
