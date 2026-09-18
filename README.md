@@ -95,3 +95,11 @@ DIVIDE([Total Orders] - [Total Errors], [Total Orders])
 - Quality performance was similar between the two teams, with error rates of **1.75% for James** and **1.66% for Sarah**.
 - At employee level, **Jack recorded the highest order volume with 200 orders**.
 - **Frank and Charlie had the highest error rates**, at **5.71% and 5.56%**, highlighting potential areas for further investigation.
+
+## Project Conclusion
+
+This project demonstrates an end-to-end data analysis workflow, from data preparation and SQL analysis to data modelling, DAX calculations and dashboard development in Power BI.
+
+The analysis shows how productivity and quality metrics can be used together to compare operational performance across employees, departments, shifts and manager teams.
+
+The project also strengthened my practical skills in SQL, Power Query, DAX, data modelling and communicating business insights through interactive dashboards.
