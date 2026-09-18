@@ -19,7 +19,9 @@ The dashboard provides an interactive view of key operational KPIs and helps ide
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here.
+### Overview
+
+![Warehouse Performance Dashboard](overview-dashboard.png)
 
 ## Business Questions
 
